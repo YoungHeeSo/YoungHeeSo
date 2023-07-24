@@ -1,4 +1,7 @@
 ### Hi there 👋
+🤔...hum
+잔디심기-
+git프로필 꾸미기-
 
 <!--
 **YoungHeeSo/YoungHeeSo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
